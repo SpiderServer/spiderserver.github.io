@@ -1,0 +1,80 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SpiderReborn.com" resolutions="1x" timestamp="1566649699550">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="spider.css" crc="4235498073" ref="spider"/>
+    <file name="index.css" crc="171466514" ref="index"/>
+    <file name="iefonts_index.css" crc="298371514" ref="index"/>
+    <file name="key.css" crc="277366038" ref="key"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:spider:key"/>
+    <file name="museutils.js" crc="340535759" ref="index:spider:key"/>
+    <file name="whatinput.js" crc="86476730" ref="index:spider:key"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:spider:key"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:spider:key"/>
+    <file name="require.js" crc="7928878" ref="index:spider:key"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="446049963" ref="index"/>
+    <file name="скрин1.jpg" crc="3910774271" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="скрин2.jpg" crc="3812213493" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="скрин3.jpg" crc="3959522016" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="срин11.jpg" crc="214416414" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="скрин12.jpg" crc="272859156" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="скрин 10.jpg" crc="88265929" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trigger 2.png" crc="338833958" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="icons8_domain_100px_2.png" crc="33380080" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icons8_inscription_240px.png" crc="4234439002" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icons8_ios_application_placeholder_240px_3.png" crc="3910551058" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icons8_launchpad_100px.png" crc="462093007" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="heart.png" crc="117585526" seo="true" ref="index:spider:key">
+      <caption webpage="index" alt=""/>
+      <caption webpage="spider" alt=""/>
+      <caption webpage="key" alt=""/>
+    </file>
+    <file name="spider-favicon.ico" crc="446049963" ref="spider"/>
+    <file name="screenshot_2.jpg" crc="293902230" seo="true" ref="spider">
+      <caption webpage="spider" alt=""/>
+    </file>
+    <file name="key-favicon.ico" crc="446049963" ref="key"/>
+    <file name="icons8_home_filled_100px.png" crc="3870829024" seo="true" ref="key">
+      <caption webpage="key" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4117072695" seo="true" mt="1566649288398" redirect="true"/>
+  <file name="spider.html" crc="78380993" seo="true" mt="1566649432094" redirect="true"/>
+  <file name="key.html" crc="4171345515" seo="true" mt="1566649475558" redirect="true"/>
+</manifest>
